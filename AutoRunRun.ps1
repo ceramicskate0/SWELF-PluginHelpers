@@ -1,0 +1,1 @@
+& 'C:\Program Files (x86)\SWELF\Plugins\Scripts\AutoRun\autorunsc.exe' -a * -vt -v -accepteula -nobanner -h -s -c
